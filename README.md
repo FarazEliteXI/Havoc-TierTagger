@@ -24,3 +24,5 @@ A Minecraft Fabric mod that displays Havoc TierList player tiers in-game.
 
 ## Credits
 Developed for Havoc TierList.
+## Community
+Join the [Havoc TierList Discord Server](https://discord.gg/UukRpTX6r9) for updates, support, and announcements.
